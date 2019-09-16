@@ -1,2 +1,2 @@
 # my_first_repo_git
-My first repository
+This is a change on my README
